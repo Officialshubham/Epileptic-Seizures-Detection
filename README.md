@@ -11,6 +11,7 @@ However, even after such inventions it is unclear of what technologies combined 
 **Research**: This study attempts to classify seizures and differentiate seizure and non seizure EEG via application of machine learning and spread this learning for aid. 
 The main objective of this study is to detect epileptic seizures with greater accuracy and less time consumption with help of various Machine Learning and Deep Learning Algorithms .
 
-
+<dev align="center">
 ![Screenshot from 2022-06-02 15-50-16](https://user-images.githubusercontent.com/42817026/171609319-8a39da99-a1f3-4a99-9e67-c0108841cd11.png)
  
+</dev>
