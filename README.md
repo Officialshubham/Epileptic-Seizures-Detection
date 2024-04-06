@@ -1,5 +1,4 @@
-# major
-msit-major
+
 
 **Purpose of Project**
 
